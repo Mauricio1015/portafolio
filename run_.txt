@@ -1,0 +1,2 @@
+paraṕoder iniciar el entorno virtual es ncesario poner el siguiete comando 
+venv\Scripts\activate.bat
